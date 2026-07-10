@@ -1,0 +1,1 @@
+print('Terry A. Davis once said "An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the better."')
