@@ -1,2 +1,2 @@
 # python-crash-course-projects-
-random .py files from me reading the book
+IM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS IF YOU USE THIS REPO
